@@ -1,7 +1,9 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "United States Air Force <br> Aircraft Metals Technology Journeyman"
 date:   2016-07-21 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Fabricated unique B-52 components through machining and welding, supporting a fleet of 28 aircraft. 
+
+Served honorably from 2009-2001 at Minot Air Force Base, North Dakota. 
