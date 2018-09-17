@@ -14,7 +14,7 @@ url: "https://londonmeanswild.github.io" # the base hostname & protocol for your
 
 # Logo settings
 # logo-image-url: images/logo.png
-font-awesome-icon-logo: <i class="fas fa-toolbox"></i>
+font-awesome-icon-logo: fas fa-toolbox
 
 # Social settings
 github_username: londonmeanswild
