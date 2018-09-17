@@ -1,5 +1,5 @@
 ---
-layout: pdf
+layout: default
 title: "Rural Harm Reduction In Massachusetts: Using Peer Networks to Prevent HIV & HCV"
 date:   2016-07-18 12:00:00 -0400
 categories: professional 
