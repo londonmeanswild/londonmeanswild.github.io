@@ -7,4 +7,4 @@ categories: professional, research
 
 Developed the first [peer-to-peer needle exchange program for rural syringe access](https://github.com/londonmeanswild/londonmeanswild.github.io/blob/master/_posts/rural-harm-reduction.pdf) in Massachusetts to combat HIV/Hepatitis C outbreak clusters and fatal overdoses due to opioid use.
 
-<embed src="https://londonmeanswild.github.io/_posts/2018-09-16-rural-harm-reduction.pdf" width="600px" height="500px" />
+https://docs.google.com/viewer?url=${https://github.com/londonmeanswild/londonmeanswild.github.io/raw/master/_posts/rural-harm-reduction.pdf}
