@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Rural Harm Reduction: Using Peer Networks to Prevent HIV & HCV"
-date:   2016-07-17 12:00:00 -0400
+date:   2018-07-17 12:00:00 -0400
 categories: professional
 ---
 
