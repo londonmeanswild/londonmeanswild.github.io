@@ -1,8 +1,8 @@
---
+---
 layout: default
 title: "The Crossroads Project: A Veterans Resource"
 category: research
---
+---
 
 Designed and developed a comprehensive database of nonprofits, service organizations, academic institutions, and mentorship programs dedicated to assisting veterans succeed in post-military life. 
 
