@@ -14,7 +14,7 @@ url: "https://londonmeanswild.github.io" # the base hostname & protocol for your
 
 # Logo settings
 # logo-image-url: images/logo.png
-font-awesome-icon-logo: f552
+font-awesome-icon-logo: fa-toolbox
 
 # Social settings
 github_username: londonmeanswild
@@ -23,7 +23,7 @@ twitter_username: landonamarchant
 # instagram_username: andrewbanchich
 # dribbble_username: andrewbanchich
 # 500px_username: andrewbanchich
-# phone: 555-5555
+# phone: (920) 412-3900
 
 # Build settings
 markdown: kramdown
