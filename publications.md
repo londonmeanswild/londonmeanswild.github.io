@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### Publications<br/>
+### Published<br/>
 <br/>
 
 ["Why so many transgender Americans find refuge in military service"](https://www.washingtonpost.com/news/post-nation/wp/2017/07/27/i-am-a-transgender-veteran-the-military-gave-me-refuge-after-i-fled-my-conservative-hometown/?utm_term=.6819332cb53c) - The Washington Post <br/>
