@@ -17,13 +17,16 @@ title: Publications
 ### Pending<br/>
 <br/>
 "We've Been Here All Along" - Two articles anticipated from the Transgender Military Service Research Lab<br/> 
+
 "November 10, 2016" in [Trans Bodies, Trans Selves](http://transbodies.com/) second edition<br/>
 
 
 ### Mentions<br/>
 
 ["Boots to Books"](https://www.williams.edu/feature-stories/boots-to-books/)<br/>
+
 ["Landon Marchant: From Welding Aircraft Parts to Williams"](https://medium.com/@Service2School/landon-marchant-from-welding-aircraft-parts-to-williams-a550cc10f3af) <br/>
+
 ["11 Out Veterans You Should Know"](https://www.nbcnews.com/feature/nbc-out/11-out-veterans-you-should-know-n819466) <br/>
 <br/>
 
