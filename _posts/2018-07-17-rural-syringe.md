@@ -11,4 +11,3 @@ Developed the first peer-to-peer needle exchange program for rural syringe acces
 [Final program outline](https://github.com/londonmeanswild/londonmeanswild.github.io/raw/master/_posts/rural-harm-reduction.pdf)
 
 <iframe src="https://drive.google.com/file/d/1yJUlEkfdlwqXOUsGMKwH5_cbnpWrM650/preview" width="100%" height="100%"></iframe>
-<embed src="https://londonmeanswild.github.io/rural-harm-reduction.pdf" type="application/pdf" />
