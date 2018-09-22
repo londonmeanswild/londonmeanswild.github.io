@@ -10,4 +10,20 @@ Developed the first peer-to-peer needle exchange program for rural syringe acces
 <!-- width="2550" height="3300" -->
 
 
-Summer 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
