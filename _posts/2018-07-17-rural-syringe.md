@@ -6,7 +6,7 @@ categories: professional
 ---
 Developed the first peer-to-peer needle exchange program for rural syringe access in Massachusetts to combat HIV/Hepatitis C outbreak clusters and fatal overdoses due to opioid use.
 
-<iframe src="https://drive.google.com/file/d/1yJUlEkfdlwqXOUsGMKwH5_cbnpWrM650/preview" width="100%" height="100%"> </iframe>
+<iframe src="https://drive.google.com/file/d/1yJUlEkfdlwqXOUsGMKwH5_cbnpWrM650/preview" width="400" height="500"> </iframe>
 <!-- width="2550" height="3300" -->
 
 
