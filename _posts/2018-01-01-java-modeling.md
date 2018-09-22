@@ -19,8 +19,7 @@ Used Python to parse text, data, and represent population changes.
 Python and Data Structures projects can be found in [this repository](https://github.com/londonmeanswild/python_134_classwork). 
 
 
-### Java Code Excerpt, scheduler.java
-This [schedules final exams](https://github.com/londonmeanswild/java/blob/master/Exam%20Scheduling%20(graphs)/Scheduler.java) based on student schedules and pre-determined rules. Output is a graph. 
+Below is a code excerpt from [scheduler.java](https://github.com/londonmeanswild/java/blob/master/Exam%20Scheduling%20(graphs)/Scheduler.java), which schedules a final exam based on student schedules and pre-determined rules. Output is a graph. 
 
 ```
   public Scheduler(Vector<Student> students){
@@ -42,8 +41,7 @@ This [schedules final exams](https://github.com/londonmeanswild/java/blob/master
 
 ```
 
-### Python Code Excerpt, oracle.py
-This [oracle reader](https://github.com/londonmeanswild/python_classwork/blob/master/oracle.py) takes a text file and uses a "window" to read and re-write text.
+Below is a code excerpt from [oracle.py](https://github.com/londonmeanswild/python_classwork/blob/master/oracle.py), which takes a text file and uses a "window" to read and re-write text.
 
 ```
 
