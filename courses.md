@@ -7,7 +7,7 @@ title: Relevant Coursework
 * Python, Data Manipulation, and Documentation
 * Java, Data Structures, and Design Documents
 * Human-Computer Interaction: UX Design and Research
-* Decentralized Systemsm and Cryptocurrencies 
+* Decentralized Systems and Cryptocurrency Markets
 * Technical Writing for Computer Science
 * Foundations of Quantitative Skills
 * Calculus One
