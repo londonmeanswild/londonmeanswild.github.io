@@ -1,11 +1,11 @@
 ---
 type: page
-title: Additional Projects, Training, and Honors
+title: Additional Projects
 ---
 
 #### This page is a work in progress
 
-* Selected as part of the [2017 Point Foundation(https://pointfoundation.org/wp-content/uploads/2017/06/2017-Point-Scholarships-announcement-1.pdf) Scholar class. The [Point Foundation](https://pointfoundation.org/) Scholarship is a program for emerging LGBTQ student leaders, helping "promising lesbian, gay, bisexual, transgender, and queer students to achieve their full academic and leadership potential." Acceptance is highly competitive, requiring a three-stage application process across several months. Scholars receive financial support, mentorship, and professional development opportunities. Upon selection, Scholars are also expected to undertake and complete communitity service projects. My Community Service Project is the expansion and maintenance of the Crossroads Project. 
+* Selected as part of the [2017 Point Foundation](https://pointfoundation.org/wp-content/uploads/2017/06/2017-Point-Scholarships-announcement-1.pdf) Scholar class. The [Point Foundation](https://pointfoundation.org/) Scholarship is a program for emerging LGBTQ student leaders, helping "promising lesbian, gay, bisexual, transgender, and queer students to achieve their full academic and leadership potential." Acceptance is highly competitive, requiring a three-stage application process across several months. Scholars receive financial support, mentorship, and professional development opportunities. Upon selection, Scholars are also expected to undertake and complete communitity service projects. My Community Service Project is the expansion and maintenance of the Crossroads Project. 
 
 * The Crossroads Project: designed and developed a comprehensive database of nonprofits, service organizations, academic institutions, and mentorship programs dedicated to assisting veterans succeed in post-military life. Initial product was [developed for transgender military troops](https://londonmeanswild.github.io/professional/2016/07/21/sparta.html), and is in use by over 21,000 veterans. I am currently working with a Williams student to develop a static website for our minimum viable product two. The end goal is an interactive web app maintained by a multi-organizational partnership. 
 
