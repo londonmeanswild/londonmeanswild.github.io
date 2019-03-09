@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Relevant Coursework
+title: Coursework
 ---
 
 ### Computer Science and Math
 * Python, Data Manipulation, and Documentation
-* Java, Data Structures, and Design Documents
+* Java, Data Structures, and Program Design
 * Human-Computer Interaction: UX Design and Research
 * Decentralized Systems and Cryptocurrency Markets
 * Technical Writing for Computer Science
@@ -16,15 +16,19 @@ title: Relevant Coursework
 ### Social Science
 * Technology, Death, and Society
 * Theories of Social Organization
-* Philosophy of Science and Theories of Social Construction
+* Theories of Social Construction
+* Philosophy of Science 
+* History of Modern Philosophy and Analytic Writing
+* Logic and Language
 * Technical Writing for Natural Sciences
 * Queer Ethnographic Writing
 * Applied Ethics and Contemporary Moral Issues
+* Memory and Identity
 
 ### Econonmics and Business Analytics
 * Microeconomics
 * Gender and Economics
-* Military Service and Socioeconomic Mobility
+* Military Service and Socioeconomic Mobility (publication pending)
 * Sustainable Business Strategies
 * Harvard Business School, CORe: Business Analytics 
 * Harvard Business School, CORe: Financial Accounting
