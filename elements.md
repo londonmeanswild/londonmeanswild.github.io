@@ -6,8 +6,7 @@ title: Publications
 ### Interviews and Articles <br/>
 <br/>
 
-["MSNBC Interivew: Supreme Court allows Trump’s transgender troop ban"](https://on.msnbc.com/2S5cpFU?fbclid=IwAR0YvGySf5gf8l4-RZK3XviHN0cxE-p98jTotwuIgTxWPC-KzGxwJU5B9eQ) <br/>
-<br/>
+[MSNBC Interivew: Supreme Court allows Trump’s transgender troop ban](https://on.msnbc.com/2S5cpFU?fbclid=IwAR0YvGySf5gf8l4-RZK3XviHN0cxE-p98jTotwuIgTxWPC-KzGxwJU5B9eQ) <br/>
 
 ["Claiming Space for Myself"](https://pointfoundation.org/claiming-space-for-myself/) </br>
 
