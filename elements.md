@@ -3,8 +3,13 @@ layout: page
 title: Publications
 ---
 
-### Published<br/>
+### Interviews and Articles <br/>
 <br/>
+
+["MSNBC Interivew: Supreme Court allows Trump’s transgender troop ban"](https://on.msnbc.com/2S5cpFU?fbclid=IwAR0YvGySf5gf8l4-RZK3XviHN0cxE-p98jTotwuIgTxWPC-KzGxwJU5B9eQ) <br/>
+<br/>
+
+["Claiming Space for Myself"](https://pointfoundation.org/claiming-space-for-myself/) </br>
 
 ["Why so many transgender Americans find refuge in military service"](https://www.washingtonpost.com/news/post-nation/wp/2017/07/27/i-am-a-transgender-veteran-the-military-gave-me-refuge-after-i-fled-my-conservative-hometown/?utm_term=.6819332cb53c) - The Washington Post <br/>
  
@@ -16,7 +21,8 @@ title: Publications
 
 ### Pending<br/>
 <br/>
-"We've Been Here All Along" - Two articles anticipated from the Transgender Military Service Research Lab<br/> 
+
+"We've Been Here All Along" - Lead author on manuscript discussion the vocational decision-making of transgender military individuals. Transgender Military Service Research Lab<br/> 
 
 "November 10, 2016" in [Trans Bodies, Trans Selves](http://transbodies.com/) second edition<br/>
 
@@ -30,5 +36,8 @@ title: Publications
 ["11 Out Veterans You Should Know"](https://www.nbcnews.com/feature/nbc-out/11-out-veterans-you-should-know-n819466) <br/>
 <br/>
 
+["TransMilitary" documentary contributor](http://www.transmilitary.org/)
+
 You can [download my resume here]({{ londonmeanswild.github.io }}/publications-projects/Landon_Marchant_Technical_Resume.pdf).
+
 
