@@ -30,6 +30,7 @@ title: Coursework
 * Gender and Economics
 * Military Service and Socioeconomic Mobility (publication pending)
 * Sustainable Business Strategies
+* Business: Scandals and Leadership
 * Harvard Business School, CORe: Business Analytics 
 * Harvard Business School, CORe: Financial Accounting
 * Harvard Business School, CORe: Economics for Managers and Introductory Statistics
